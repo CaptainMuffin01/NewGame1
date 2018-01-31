@@ -675,3 +675,4 @@ LogInit: Object subsystem initialized
 [2018.01.31-02.48.25:546][746]SourceControl: [master fbb5a8e] Block
 [2018.01.31-02.48.25:546][746]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.01.31-02.48.25:557][746]SourceControl: Commited [master fbb5a8e] Block.
+[2018.01.31-02.49.07:004][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
