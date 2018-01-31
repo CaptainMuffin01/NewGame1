@@ -471,3 +471,5 @@ LogInit: Object subsystem initialized
 [2018.01.31-02.55.42:375][595]SourceControl: [master dd87496] update?
 [2018.01.31-02.55.42:375][595]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.01.31-02.55.42:386][595]SourceControl: Commited [master dd87496] update?.
+[2018.01.31-02.56.49:765][777]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.01.31-02.56.49:889][777]EditorErrors: Warning: No assets to check in!
