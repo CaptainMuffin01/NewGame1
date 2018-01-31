@@ -655,3 +655,10 @@ LogInit: Object subsystem initialized
 [2018.01.31-02.40.35:385][293]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.01.31-02.40.35:451][293]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.441ms to complete.
 [2018.01.31-02.40.35:452][293]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.147
+[2018.01.31-02.46.07:248][383]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.01.31-02.46.07:349][383]EditorErrors: Warning: No assets to check in!
+[2018.01.31-02.46.59:599][823]LogActorFactory: Actor Factory created 1M_Cube
+[2018.01.31-02.47.02:021][ 91]LogActorFactory: Actor Factory created 1M_Cube
+[2018.01.31-02.47.25:825][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2018.01.31-02.47.30:175][232]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.01.31-02.47.30:274][232]EditorErrors: Warning: No assets to check in!
