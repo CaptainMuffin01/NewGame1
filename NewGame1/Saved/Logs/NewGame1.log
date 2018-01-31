@@ -421,3 +421,25 @@ LogInit: Object subsystem initialized
 [2018.01.31-02.42.35:201][563]SourceControl: [master 94ecabf] update
 [2018.01.31-02.42.35:201][563]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.01.31-02.42.35:212][563]SourceControl: Commited [master 94ecabf] update.
+[2018.01.31-02.45.07:889][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-02.45.08:526][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2018.01.31-02.45.09:772][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2018.01.31-02.45.18:448][613]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall4)
+[2018.01.31-02.45.28:222][748]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall1)
+[2018.01.31-02.45.29:366][876]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.01.31-02.45.30:624][ 13]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.01.31-02.45.43:552][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2018.01.31-02.45.44:602][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-02.45.45:389][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-02.45.53:557][709]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.01.31-02.45.59:109][367]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall4)
+[2018.01.31-02.46.00:073][473]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.01.31-02.48.40:951][747]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.01.31-02.48.43:869][ 43]LogSavePackage: Save=147.04ms
+[2018.01.31-02.48.43:869][ 43]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Saved/FirstPersonExampleMapEDAA8FAB41AA838E7EB23EACA14CE000.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.01.31-02.48.43:873][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.01.31-02.48.49:370][675]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.01.31-02.48.59:113][675]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.31-02.48.59:244][675]SourceControl: [master 707493e] update
+[2018.01.31-02.48.59:244][675]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.01.31-02.48.59:251][675]SourceControl: Commited [master 707493e] update.
