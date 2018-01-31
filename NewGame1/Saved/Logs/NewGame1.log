@@ -443,3 +443,31 @@ LogInit: Object subsystem initialized
 [2018.01.31-02.48.59:244][675]SourceControl: [master 707493e] update
 [2018.01.31-02.48.59:244][675]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.01.31-02.48.59:251][675]SourceControl: Commited [master 707493e] update.
+[2018.01.31-02.49.41:208][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-02.54.37:182][953]LogEditorViewport: Clicking on Actor (context menu): PostProcessVolume (PostProcessVolume)
+[2018.01.31-02.54.38:950][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-02.54.39:731][209]LogEditorViewport: Clicking on Actor (context menu): TextRenderActor (TemplateLabel)
+[2018.01.31-02.54.51:584][570]Cmd: DELETE
+[2018.01.31-02.54.51:585][570]Cmd: ACTOR DELETE
+[2018.01.31-02.54.51:853][570]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.01.31-02.54.51:865][570]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.01.31-02.55.17:132][ 53]LogSavePackage: Save=140.49ms
+[2018.01.31-02.55.17:132][ 53]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Saved/FirstPersonExampleMap9A2BC21142B68584266FE7A2FF86BBC6.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.01.31-02.55.17:136][ 53]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.01.31-02.55.17:152][ 53]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.316
+[2018.01.31-02.55.17:153][ 53]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.31-02.55.17:159][ 53]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.31-02.55.17:159][ 53]LightingResults: New page: Lighting Build
+[2018.01.31-02.55.17:160][ 53]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2018.01.31-02.55.17:160][ 53]MapCheck: New page: Map Check
+[2018.01.31-02.55.17:160][ 53]LightingResults: New page: Lighting Build
+[2018.01.31-02.55.17:252][ 53]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.31-02.55.17:322][ 53]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.31-02.55.17:343][ 53]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.31-02.55.17:403][ 53]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.168ms to complete.
+[2018.01.31-02.55.17:404][ 53]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.246
+[2018.01.31-02.55.20:008][361]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.01.31-02.55.42:245][595]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.31-02.55.42:375][595]SourceControl: [master dd87496] update?
+[2018.01.31-02.55.42:375][595]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.01.31-02.55.42:386][595]SourceControl: Commited [master dd87496] update?.
