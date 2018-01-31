@@ -374,3 +374,66 @@ LogInit: Object subsystem initialized
 [2018.01.31-03.16.28:664][769]LogSavePackage: Save=1530.46ms
 [2018.01.31-03.16.28:664][769]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Saved/FirstPersonExampleMap_BuiltData928E7312407C813A6FBF9096D1FFFC4D.tmp' to 'C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2018.01.31-03.16.28:668][769]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.01.31-03.17.38:312][475]LogLinker: Warning: Can't find file '/Game/OurGame/Twisted_Fate_BuiltData'
+[2018.01.31-03.17.38:312][475]LogLinker: Warning: Can't find file for asset '/Game/OurGame/Twisted_Fate_BuiltData' while loading C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/OurGame/Twisted_Fate.umap.
+[2018.01.31-03.17.38:312][475]LoadErrors: Error: /Game/OurGame/Twisted_Fate : Can't find file for asset. /Game/OurGame/Twisted_Fate_BuiltData
+[2018.01.31-03.17.38:332][475]LogLinker: Warning: Can't find file '/Game/OurGame/Twisted_Fate_BuiltData'
+[2018.01.31-03.17.38:332][475]LogLinker: Warning: Can't find file for asset '/Game/OurGame/Twisted_Fate_BuiltData' while loading C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/OurGame/Twisted_Fate.umap.
+[2018.01.31-03.17.39:183][475]LogLinker: Warning: Can't find file '/Game/OurGame/Twisted_Fate_BuiltData'
+[2018.01.31-03.17.39:183][475]LoadErrors: Failed to load /Game/OurGame/Twisted_Fate_BuiltData.Twisted_Fate_BuiltData Referenced by PersistentLevel
+[2018.01.31-03.17.39:183][475]LogLinker: Warning: Can't find file for asset '/Game/OurGame/Twisted_Fate_BuiltData' while loading NULL.
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_1015 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_1023 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_1031 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_1039 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_247 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_263 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_503 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_271 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_519 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_511 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_527 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_759 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_767 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_775 (BGRA8, 512X512)
+[2018.01.31-03.17.39:382][475]LogTexture: Display: Building textures: Texture2D_783 (BGRA8, 512X512)
+[2018.01.31-03.17.39:440][475]LogAIModule: Creating AISystem for world Twisted_Fate
+[2018.01.31-03.17.39:553][475]Cmd: MAP LOAD FILE="C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/OurGame/Twisted_Fate.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.31-03.17.39:553][475]LightingResults: New page: Lighting Build
+[2018.01.31-03.17.39:554][475]LoadErrors: New page: Loading map: Twisted_Fate.umap
+[2018.01.31-03.17.39:554][475]MapCheck: New page: Map Check
+[2018.01.31-03.17.39:555][475]LightingResults: New page: Lighting Build
+[2018.01.31-03.17.42:254][475]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.31-03.17.42:316][475]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.31-03.17.42:451][475]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 134.748ms to complete.
+[2018.01.31-03.17.42:451][475]LogFileHelpers: Loading map 'Twisted_Fate' took 2.899
+[2018.01.31-03.18.23:844][ 15]LogActorFactory: Actor Factory created 1M_Cube
+[2018.01.31-03.18.24:891][ 89]LogActorFactory: Actor Factory created 1M_Cube
+[2018.01.31-03.18.35:046][867]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.31-03.18.36:860][954]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-03.18.41:008][242]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/OurGame/Twisted_Fate.Twisted_Fate:PersistentLevel.SkySphere.Sky Sphere mesh' 
+[2018.01.31-03.18.41:008][242]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/OurGame/Twisted_Fate.Twisted_Fate:PersistentLevel.SkySphere.Sky Sphere mesh' 
+[2018.01.31-03.18.41:377][271]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/OurGame/Twisted_Fate.Twisted_Fate:PersistentLevel.SkySphere.Sky Sphere mesh' 
+[2018.01.31-03.18.41:378][271]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/OurGame/Twisted_Fate.Twisted_Fate:PersistentLevel.SkySphere.Sky Sphere mesh' 
+[2018.01.31-03.18.41:743][302]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/OurGame/Twisted_Fate.Twisted_Fate:PersistentLevel.SkySphere.Sky Sphere mesh' 
+[2018.01.31-03.18.41:743][302]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/OurGame/Twisted_Fate.Twisted_Fate:PersistentLevel.SkySphere.Sky Sphere mesh' 
+[2018.01.31-03.18.42:000][326]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/OurGame/Twisted_Fate.Twisted_Fate:PersistentLevel.SkySphere.Sky Sphere mesh' 
+[2018.01.31-03.18.42:000][326]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/OurGame/Twisted_Fate.Twisted_Fate:PersistentLevel.SkySphere.Sky Sphere mesh' 
+[2018.01.31-03.18.43:204][428]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/OurGame/Twisted_Fate.Twisted_Fate:PersistentLevel.SkySphere.Sky Sphere mesh' 
+[2018.01.31-03.18.43:205][428]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/OurGame/Twisted_Fate.Twisted_Fate:PersistentLevel.SkySphere.Sky Sphere mesh' 
+[2018.01.31-03.19.13:615][669]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.31-03.19.15:414][774]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.31-03.19.17:235][901]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.31-03.19.17:833][943]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.31-03.19.18:161][960]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.31-03.19.20:785][113]LogActorFactory: Actor Factory created 1M_Cube
+[2018.01.31-03.19.21:499][151]LogActorFactory: Actor Factory created 1M_Cube
+[2018.01.31-03.19.33:353][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurGame/Twisted_Fate" FILE="C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/OurGame/Twisted_Fate.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.31-03.19.36:119][ 34]LogSavePackage: Save=2711.05ms
+[2018.01.31-03.19.36:119][ 34]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Saved/Twisted_Fate67165BED4F78992964C2C0BF0D7B6B2C.tmp' to 'C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/OurGame/Twisted_Fate.umap'
+[2018.01.31-03.19.36:125][ 34]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/OurGame/Twisted_Fate.umap
+[2018.01.31-03.19.42:849][475]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.01.31-03.19.49:963][475]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.31-03.19.50:122][475]SourceControl: Error: fatal: cannot do a partial commit during a merge.
+[2018.01.31-03.19.50:133][475]SourceControl: Submitted revision.
