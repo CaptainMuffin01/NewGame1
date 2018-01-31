@@ -653,3 +653,16 @@ LogInit: Object subsystem initialized
 [2018.01.31-03.15.59:960][321]SourceControl:  create mode 100644 NewGame1/Content/FirstPersonBP/Maps/Twisted_Fate.umap
 [2018.01.31-03.15.59:960][321]SourceControl:  create mode 100644 NewGame1/Content/OurGame/Twisted_Fate.umap
 [2018.01.31-03.15.59:967][321]SourceControl: Commited [master b2e959a] New_Level.
+[2018.01.31-03.18.25:292][789]LogSavePackage: Save=2651.46ms
+[2018.01.31-03.18.25:293][789]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Saved/Twisted_Fate0F40E8554CA3E53B529EA59D36A564D6.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Content/OurGame/Twisted_Fate.umap'
+[2018.01.31-03.18.25:296][789]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Content/OurGame/Twisted_Fate.umap
+[2018.01.31-03.18.25:543][789]LogSavePackage: Save=13.68ms
+[2018.01.31-03.18.25:543][789]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Saved/Twisted_Fate_BuiltDataB59CE36240EC0842670743A964931744.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Content/OurGame/Twisted_Fate_BuiltData.uasset'
+[2018.01.31-03.18.25:544][789]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Content/OurGame/Twisted_Fate_BuiltData.uasset
+[2018.01.31-03.21.30:570][214]LogTexture: Display: Building textures: Texture2D_511 (BGRA8, 512X512)
+[2018.01.31-03.21.32:635][214]LogSavePackage: Save=2497.34ms
+[2018.01.31-03.21.32:635][214]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Saved/Twisted_Fate83D33E5A40FF126242F2E59D919B0EE7.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Content/OurGame/Twisted_Fate.umap'
+[2018.01.31-03.21.32:642][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Twisted_Fate/NewGame1/NewGame1/Content/OurGame/Twisted_Fate.umap
+[2018.01.31-03.21.32:677][214]LogFileHelpers: Saving map 'Twisted_Fate' took 2.655
+[2018.01.31-03.22.44:464][674]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.01.31-03.23.36:065][592]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
