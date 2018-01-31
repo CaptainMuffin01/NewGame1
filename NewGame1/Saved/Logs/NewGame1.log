@@ -631,3 +631,14 @@ LogInit: Object subsystem initialized
 [2018.01.31-01.53.35:830][151]SourceControl:   (use "git add <file>..." to include in what will be committed)
 [2018.01.31-01.53.35:830][151]SourceControl: 	NewGame1/
 [2018.01.31-01.53.35:830][151]SourceControl: nothing added to commit but untracked files present (use "git add" to track)
+[2018.01.31-01.57.22:716][500]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.01.31-01.57.33:638][500]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.31-01.57.33:733][500]SourceControl: On branch master
+[2018.01.31-01.57.33:733][500]SourceControl: Your branch is ahead of 'origin/master' by 1 commit.
+[2018.01.31-01.57.33:733][500]SourceControl:   (use "git push" to publish your local commits)
+[2018.01.31-01.57.33:733][500]SourceControl: Changes not staged for commit:
+[2018.01.31-01.57.33:733][500]SourceControl: 	modified:   NewGame1/Saved/Logs/NewGame1.log
+[2018.01.31-01.57.33:733][500]SourceControl: Untracked files:
+[2018.01.31-01.57.33:733][500]SourceControl: 	NewGame1/Saved/Logs/Git-TempE63A57BE4DCB69324E88F9804D3A0298.txt
+[2018.01.31-01.57.33:733][500]SourceControl: no changes added to commit
+[2018.01.31-01.57.33:746][500]SourceControl: Commited On branch master.
