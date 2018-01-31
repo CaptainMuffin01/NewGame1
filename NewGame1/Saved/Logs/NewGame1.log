@@ -642,3 +642,16 @@ LogInit: Object subsystem initialized
 [2018.01.31-01.57.33:733][500]SourceControl: 	NewGame1/Saved/Logs/Git-TempE63A57BE4DCB69324E88F9804D3A0298.txt
 [2018.01.31-01.57.33:733][500]SourceControl: no changes added to commit
 [2018.01.31-01.57.33:746][500]SourceControl: Commited On branch master.
+[2018.01.31-02.10.29:767][112]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-02.21.57:448][173]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.01.31-02.40.35:288][293]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.31-02.40.35:306][293]Cmd: MAP LOAD FILE="C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.31-02.40.35:306][293]LightingResults: New page: Lighting Build
+[2018.01.31-02.40.35:307][293]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2018.01.31-02.40.35:307][293]MapCheck: New page: Map Check
+[2018.01.31-02.40.35:307][293]LightingResults: New page: Lighting Build
+[2018.01.31-02.40.35:359][293]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.31-02.40.35:368][293]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.31-02.40.35:385][293]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.31-02.40.35:451][293]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.441ms to complete.
+[2018.01.31-02.40.35:452][293]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.147
