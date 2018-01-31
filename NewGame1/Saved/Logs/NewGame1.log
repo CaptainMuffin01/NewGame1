@@ -437,3 +437,21 @@ LogInit: Object subsystem initialized
 [2018.01.31-03.19.49:963][475]LogSourceControl: FGitCheckInWorker: commit successful
 [2018.01.31-03.19.50:122][475]SourceControl: Error: fatal: cannot do a partial commit during a merge.
 [2018.01.31-03.19.50:133][475]SourceControl: Submitted revision.
+[2018.01.31-03.24.13:482][836]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.31-03.26.20:638][803]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.01.31-03.27.22:277][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurGame/Twisted_Fate" FILE="C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/OurGame/Twisted_Fate.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.31-03.27.22:809][711]LogTexture: Display: Building textures: Texture2D_503 (BGRA8, 512X512)
+[2018.01.31-03.27.22:856][711]LogTexture: Display: Building textures: Texture2D_511 (BGRA8, 512X512)
+[2018.01.31-03.27.22:866][711]LogTexture: Display: Building textures: Texture2D_519 (BGRA8, 512X512)
+[2018.01.31-03.27.22:876][711]LogTexture: Display: Building textures: Texture2D_767 (BGRA8, 512X512)
+[2018.01.31-03.27.22:886][711]LogTexture: Display: Building textures: Texture2D_775 (BGRA8, 512X512)
+[2018.01.31-03.27.22:896][711]LogTexture: Display: Building textures: Texture2D_1023 (BGRA8, 512X512)
+[2018.01.31-03.27.22:947][711]LogTexture: Display: Building textures: Texture2D_1031 (BGRA8, 512X512)
+[2018.01.31-03.27.25:197][711]LogSavePackage: Save=2899.19ms
+[2018.01.31-03.27.25:197][711]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Saved/Twisted_Fate6702EFE843DEEA8D4D1045B39E6CCAE5.tmp' to 'C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/OurGame/Twisted_Fate.umap'
+[2018.01.31-03.27.25:206][711]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/OurGame/Twisted_Fate.umap
+[2018.01.31-03.27.34:066][249]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.01.31-03.27.43:162][249]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.31-03.27.43:312][249]SourceControl: [master f0caf40] Landscape
+[2018.01.31-03.27.43:312][249]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.01.31-03.27.43:326][249]SourceControl: Commited [master f0caf40] Landscape.
