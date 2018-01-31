@@ -366,3 +366,11 @@ LogInit: Object subsystem initialized
 [2018.01.31-03.09.14:811][ 16]SourceControl: 	NewGame1/Saved/Diff/
 [2018.01.31-03.09.14:811][ 16]SourceControl: 	NewGame1/Saved/Logs/NewGame1-backup-2018.01.30-22.08.49.log
 [2018.01.31-03.09.14:811][ 16]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.01.31-03.16.26:719][769]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.31-03.16.26:919][769]LogSavePackage: Save=171.39ms
+[2018.01.31-03.16.26:919][769]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Saved/FirstPersonExampleMap5938EFB84F6716FFD15F5297CCEF6677.tmp' to 'C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.01.31-03.16.26:930][769]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.01.31-03.16.28:052][769]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.31-03.16.28:664][769]LogSavePackage: Save=1530.46ms
+[2018.01.31-03.16.28:664][769]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Saved/FirstPersonExampleMap_BuiltData928E7312407C813A6FBF9096D1FFFC4D.tmp' to 'C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.01.31-03.16.28:668][769]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/NewGame1/NewGame1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
